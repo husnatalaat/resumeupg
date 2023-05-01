@@ -1,0 +1,28 @@
+img{
+    height: 200px;
+    width: 200px;
+}
+#navy {
+    color: #0A4D68;
+}
+
+.blue{
+    color: #576CBC;
+}
+
+.gray{
+    color: #577D86;
+}
+
+h3{
+    color: #569DAA;
+}
+
+* {
+    background: #B9EDDD;
+}
+
+.try {
+    color: #576CBC;
+}
+
